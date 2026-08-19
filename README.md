@@ -64,7 +64,8 @@ The project follows these steps:
 
 ## Dashboard Preview
 
-![Dashboard Preview](electric_vehicle_dashboard.png)
+![Dashboard Preview](electric_vehicle_dashboard.png.jpg)
+
 
 
 ## Files Included
